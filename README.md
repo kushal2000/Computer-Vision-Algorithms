@@ -1,7 +1,9 @@
 ### Assignments from the course Advanced Digital Image Processing & Computer Vision
 
-###### A1 -> Basic Image Operations
-###### A2 -> Single Camera Geometry
-###### A3 -> Multi Camera Geometry
-###### A4 -> Color Image Processing
-###### A5 -> Range Image Processing
+###### a1 -> Basic Image Operations
+###### a2 -> Single Camera Geometry
+###### a3 -> Multi Camera Geometry
+###### a4 -> Color Image Processing
+###### a5 -> Range Image Processing
+
+#### Each Assignment Folder contains its own detailed README with execution and interpreation instructions
