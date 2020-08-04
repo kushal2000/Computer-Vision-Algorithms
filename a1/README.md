@@ -1,6 +1,6 @@
 ## Assignment 1 
 
-* Execute using ``` pythona1_interactive.py ```
+* Execute using ``` python a1_interactive.py ```
 
 * Implements the basic image processing algorithms.
 
