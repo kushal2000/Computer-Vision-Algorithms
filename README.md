@@ -6,4 +6,4 @@
 * a4 -> Color Image Processing
 * a5 -> Range Image Processing
 
-#### Each Assignment Folder contains its own detailed README with execution and interpreation instructions
+#### Each Assignment Folder contains its own detailed README with execution instructions
